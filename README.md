@@ -43,6 +43,9 @@
 2. **Installer les Dépendances :**
    ```bash
    npm install
+   or
+   npm init -y
+   npm install discord.js-selfbot-v13 chalk figlet ora readline
    ```
 
 ## 🛠️ **Utilisation**
